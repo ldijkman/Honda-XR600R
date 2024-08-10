@@ -60,6 +60,8 @@ gib mir das was ich brauche
 
 verlange
 
+https://youtu.be/PvF9PAxe5Ng?si=zL-lI-OrfDfZm7HW
+
 -
 
 piston ring position
