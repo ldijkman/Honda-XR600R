@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/Honda%20XR600R%2088%20%203.jpg">
 
-Honda XR600R 1988 pe04
+Honda XR600R 1988 engine PE04
 
 parts
 https://www.cmsnl.com/honda-xr600r-1988-j-belgium_model6868/partslist/
