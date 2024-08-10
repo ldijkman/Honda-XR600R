@@ -55,6 +55,12 @@ gib mir das was ich brauche
 verlange
 
 -
+
+piston ring position
+
+zuigerveer positie stand
+
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/img_2_1723277217667.jpg">
 -
 
 searching for honda xr600r engine RFVC Engine
