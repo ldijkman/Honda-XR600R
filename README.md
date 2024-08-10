@@ -11,4 +11,11 @@ calric.com
 19mm kickstart
 https://www.ebay.com/itm/292219644461
 
-https://mckresy.it/plastica-portafaro-ricambio-rettangolare.html?fbclid=IwY2xjawEfPdlleHRuA2FlbQIxMQABHUpT6N0wlNpVfcIrorKeOVPIaIM34c_a--Dg_94fD3kg-ui7a2KTlyD1xg_aem_l0-ojjYaCo9ap0vvjNPXyg
+https://mckresy.it/plastica-portafaro-ricambio-rettangolare.html
+
+Egbert Hidding Emmen NL
+
+Landtech Balk NL
+
+errug handige belg
+https://m.facebook.com/groups/151353093219553/
