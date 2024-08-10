@@ -68,4 +68,4 @@ zoek honda XR600 motorblok
 
 <img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/img_1_1723275700208.jpg">
 
-lot of looks from the Lafies
+lot of looks from the Ladies
