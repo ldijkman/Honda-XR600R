@@ -10,3 +10,5 @@ https://www.moto-gears.com/honda-xr600r-gears/
 calric.com
 19mm kickstart
 https://www.ebay.com/itm/292219644461
+
+https://mckresy.it/plastica-portafaro-ricambio-rettangolare.html?fbclid=IwY2xjawEfPdlleHRuA2FlbQIxMQABHUpT6N0wlNpVfcIrorKeOVPIaIM34c_a--Dg_94fD3kg-ui7a2KTlyD1xg_aem_l0-ojjYaCo9ap0vvjNPXyg
