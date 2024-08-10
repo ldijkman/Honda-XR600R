@@ -1,4 +1,4 @@
-# Honda-XR600R 1988 PE04
+# Honda-XR600R 1988 PE04 RFVC
 
 Honda RFVC Engine
 radial four valve chamber
