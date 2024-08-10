@@ -18,6 +18,9 @@ https://www.moto-gears.com/honda-xr600r-gears/
 
 https://m.facebook.com/VintageGearSpecialist/
 
+
+---
+
 calric.com
 19mm kickstart
 https://www.ebay.com/itm/292219644461
