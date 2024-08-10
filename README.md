@@ -12,8 +12,11 @@ Honda XR600R 1988 engine PE04
 parts
 https://www.cmsnl.com/honda-xr600r-1988-j-belgium_model6868/partslist/
 
-gears 
+---
+vintage motorcycle gears production
 https://www.moto-gears.com/honda-xr600r-gears/
+
+https://m.facebook.com/VintageGearSpecialist/
 
 calric.com
 19mm kickstart
