@@ -91,7 +91,7 @@ https://www.ebay.com/itm/292219644461
 ---
 Do NOT like many copys of honda xr600 head light mask visor
 
-i like this good copy of original, 
+i like this good copy of original (maybe only for european size headlight unit), 
 
 <img src="https://github.com/ldijkman/Honda-XR600R/blob/main/visorfrnh-138_big61301MG2000ZC-01_35f0.jpg?raw=true" width="200px"><img src="https://github.com/ldijkman/Honda-XR600R/blob/main/visorfrnh-138_big61301MG2000ZC-03_ca1a.jpg?raw=true" width="200px">
 
