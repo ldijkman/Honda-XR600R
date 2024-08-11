@@ -209,6 +209,11 @@ https://youtube.com/shorts/y8CqgQXb8N4?feature=share
 ---
 
 <img src="https://github.com/ldijkman/Honda-XR600R/blob/main/Honda%20XR600R%2088%20%2001.jpg?raw=true" width="600px">
+
+
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/honda-XR600-84-440x621.jpg">
+
+
 ---
 
 https://github.com/ldijkman/Honda-XR600R/discussions
