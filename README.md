@@ -37,6 +37,7 @@ https://www.cmsnl.com/honda-xr600r-1988-j-belgium_model6868/partslist/
 vintage motorcycle gears production moto tandwiel
 - Introducing our Motorcycle Gear for Honda XR600R - GEAR THIRD MAINSHAFT 20T OEM: 23441-MK2-000 (1985 - 1998)
 - mine had pitting in gear teeth, not on http://cmsnl.com,  bought a second hand from Egbert Hidding
+- 
 https://www.moto-gears.com/honda-xr600r-gears/
 
 https://m.facebook.com/VintageGearSpecialist/
