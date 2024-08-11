@@ -154,4 +154,4 @@ https://youtube.com/shorts/y8CqgQXb8N4?feature=share
 
 # Kick it!
 
-https://youtube.com/sh
+https://youtube.com/shorts/y8CqgQXb8N4?feature=share
