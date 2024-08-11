@@ -81,7 +81,12 @@ honda XL600 Kickstart 19mm / Honda XR600 kickstart 19mm
 
 calric.com
 19mm kickstart honda XL600 XR600
+
 https://www.ebay.com/itm/292219644461
+
+CALTRIC EBAY https://www.ebay.com/str/caltric
+
+CALTRIC AMAZON https://amzn.to/3RoIkxz
 
 - Arm Assy.,kick St Xr600r 1988 (j) Belgium
 - product number: 28300MN1670
