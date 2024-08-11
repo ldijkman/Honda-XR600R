@@ -7,6 +7,12 @@ radial four valve chamber
 
 link list
 
+---
+## shop manual
+
+https://github.com/ldijkman/Honda-XR600R/tree/main/Manual
+---
+
 Honda XR600R 1988 engine PE04
 
 parts
