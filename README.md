@@ -19,9 +19,9 @@ https://github.com/ldijkman/Honda-XR600R/tree/main/Manual
 - 05 engine removal / installation https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel05.pdf
 - 06 cilinder head / valves https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel06.pdf
 - 07 cilinder / piston https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel07.pdf
+---
 - - Prox extra info piston ring position https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/img_2_1723277217667.jpg
-
-  
+---
 - 08 cluctch / kickstarter https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel08.pdf
 - 09 alternator https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel09.pdf
 - 10 crackshaft balancer  https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel10.pdf
