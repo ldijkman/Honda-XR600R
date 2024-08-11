@@ -65,7 +65,7 @@ https://www.cmsnl.com/honda-xr600r-1988-j-belgium_model6868/partslist/
 ---
 # UFO Plastics
 
-### fender sidecocers reartail
+### fender sidecovers reartail
 
 ### https://nl.ufoplast.com/13399-1988
 
