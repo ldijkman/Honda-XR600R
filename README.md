@@ -40,6 +40,14 @@ https://github.com/ldijkman/Honda-XR600R/tree/main/Manual
 - 
 ---
 
+
+# IMPORTANT!
+
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/20240811_142119.jpg">
+
+---
+
+
 Honda XR600R 1988 engine PE04
 
 # honda xr600 parts CMSNL.com
