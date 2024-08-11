@@ -63,6 +63,14 @@ Honda XR600R 1988 engine PE04
 https://www.cmsnl.com/honda-xr600r-1988-j-belgium_model6868/partslist/
 
 ---
+# UFO Plastics
+
+### fender sidecocers reartail
+
+### https://nl.ufoplast.com/13399-1988
+
+
+---
 ## vintage motorcycle gears production moto tandwiel
 - Introducing our Motorcycle Gear for Honda XR600R - GEAR THIRD MAINSHAFT 20T OEM: 23441-MK2-000 (1985 - 1998)
 - mine had pitting in gear teeth, not on http://cmsnl.com,  bought a second hand from Egbert Hidding
