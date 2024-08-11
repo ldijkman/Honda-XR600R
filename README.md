@@ -73,8 +73,14 @@ https://www.nicecnc.com/
 ---
 
 calric.com
-19mm kickstart
+19mm kickstart honda XL600 XR600
 https://www.ebay.com/itm/292219644461
+
+- Arm Assy.,kick St Xr600r 1988 (j) Belgium
+- product number: 28300MN1670
+- CMS product number: HO0039.6307
+- € 174.24 ,incl. 21% VAT
+---
 
 https://mckresy.it/plastica-portafaro-ricambio-rettangolare.html
 
