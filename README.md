@@ -35,6 +35,7 @@ https://github.com/ldijkman/Honda-XR600R/tree/main/Manual
 - 17 electrical system https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel17.pdf
 - 18 technical features https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel18.pdf
 - 19 troubleshooting https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel19.pdf
+- 20 XR600R(K) Addendum https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel20.pdf
 
 - 
 ---
