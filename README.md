@@ -82,8 +82,7 @@ https://www.ebay.com/itm/292219644461
 - € 174.24 ,incl. 21% VAT
 
 ---
-<img src="https://github.com/ldijkman/Honda-XR600R/blob/main/visorfrnh-138_big61301MG2000ZC-01_35f0.jpg?raw=true" width="100px">
-<img src="https://github.com/ldijkman/Honda-XR600R/blob/main/visorfrnh-138_big61301MG2000ZC-03_ca1a.jpg?raw=true" width="100px">
+<img src="https://github.com/ldijkman/Honda-XR600R/blob/main/visorfrnh-138_big61301MG2000ZC-01_35f0.jpg?raw=true" width="200px"><img src="https://github.com/ldijkman/Honda-XR600R/blob/main/visorfrnh-138_big61301MG2000ZC-03_ca1a.jpg?raw=true" width="200px">
 
 https://mckresy.it/plastica-portafaro-ricambio-rettangolare.html
 
