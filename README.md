@@ -53,6 +53,8 @@ super pinion not fine spline like this https://www.nicecnc.com/products/15t-fron
 
 520 chain outside is 14 teeth but want 15 teeth, maybe less rpm on higher speeds
 
+https://www.nicecnc.com/collections/xr600r
+
 https://www.nicecnc.com/
 
 
