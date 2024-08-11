@@ -71,6 +71,7 @@ https://www.nicecnc.com/
 
 
 ---
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/honda_XL600_Kickstart_XR600_kickstart_19mm.webp" width="250px">
 
 calric.com
 19mm kickstart honda XL600 XR600
