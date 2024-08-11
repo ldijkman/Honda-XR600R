@@ -27,6 +27,16 @@ https://github.com/ldijkman/Honda-XR600R/tree/main/Manual
 - 09 alternator https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel09.pdf
 - 10 crackshaft balancer  https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel10.pdf
 - 11 transmision https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel11.pdf
+- 12 front wheel / suspension / steering https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel12.pdf
+- 13 rear wheel / brake/ suspension https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel13.pdf
+- 14 hydraulic braje https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel14.pdf
+- 15 rear fender / exhaust pipe https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel15.pdf
+- 16 electrical system https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel16.pdf
+- 17 electrical system https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel17.pdf
+- 18 technical features https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel18.pdf
+- 19 troubleshooting https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel19.pdf
+
+- 
 ---
 
 Honda XR600R 1988 engine PE04
