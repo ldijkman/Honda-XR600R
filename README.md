@@ -186,4 +186,7 @@ https://youtube.com/shorts/y8CqgQXb8N4?feature=share
 
 ---
 
+<img src="https://github.com/ldijkman/Honda-XR600R/blob/main/Honda%20XR600R%2088%20%2001.jpg?raw=true" width="600px">
+---
+
 https://github.com/ldijkman/Honda-XR600R/discussions
