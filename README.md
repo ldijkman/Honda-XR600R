@@ -167,3 +167,7 @@ https://youtube.com/shorts/y8CqgQXb8N4?feature=share
 # Kick it!
 
 https://youtube.com/shorts/y8CqgQXb8N4?feature=share
+
+---
+
+https://github.com/ldijkman/Honda-XR600R/discussions
