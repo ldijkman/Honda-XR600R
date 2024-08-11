@@ -238,9 +238,9 @@ https://github.com/ldijkman/Honda-XR600R/discussions
 
 
 ---
-ad free, free page
+ad free, free page!
 
-did i save you some time
+did i save you some time / money?
 
 https://www.paypal.com/paypalme/ldijkman
 
