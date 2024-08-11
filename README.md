@@ -45,6 +45,19 @@ https://m.facebook.com/VintageGearSpecialist/
 
 ---
 
+## NICECNC
+
+chinese copycats
+
+super pinion not fine spline like this https://www.nicecnc.com/products/15t-front-sprocket-for-honda-xr650l-1993-2024
+
+520 chain outside is 14 teeth but want 15 teeth, maybe less rpm on higher speeds
+
+https://www.nicecnc.com/
+
+
+---
+
 calric.com
 19mm kickstart
 https://www.ebay.com/itm/292219644461
