@@ -13,9 +13,9 @@ link list
 https://github.com/ldijkman/Honda-XR600R/tree/main/Manual
 
 - 01 general info and bolt torq https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel01.pdf
--
--
--
+- 02 lubrication https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel02.pdf
+- 03 maintenence https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel03.pdf
+- 04 fuel system https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel04.pdf
 - 05 engine removal / installation https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel05.pdf
 - 06 cilinder head / valves https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel06.pdf
 - 07 cilinder / piston https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel07.pdf
