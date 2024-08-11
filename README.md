@@ -216,3 +216,15 @@ https://youtube.com/shorts/y8CqgQXb8N4?feature=share
 ---
 
 https://github.com/ldijkman/Honda-XR600R/discussions
+
+---
+
+ik zoek een honda xr600 motorblok rfvc
+
+ich suche eine honda xr600 motor rfvc
+
+searching for a honda xr600 engine rfvc
+
+---
+
+https://github.com/ldijkman/Honda-XR600R/discussions
