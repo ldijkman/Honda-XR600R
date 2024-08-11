@@ -45,7 +45,7 @@ https://github.com/ldijkman/Honda-XR600R/tree/main/Manual
 
 do not forget the 2 bushings on oilpump with o-ring
 
-and place correct bushing in correct place
+## place correct bushing in correct place
 
 https://www.cmsnl.com/honda-xr600r-1988-j-belgium_model6868/collar-holder_17958197300/
 
