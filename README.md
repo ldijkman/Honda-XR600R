@@ -149,3 +149,9 @@ lot of looks from the Ladies
 # Kick it!
 
 https://youtube.com/shorts/y8CqgQXb8N4?feature=share
+
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/Screenshot%20from%202024-08-11%2010-02-07.png">
+
+# Kick it!
+
+https://youtube.com/sh
