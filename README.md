@@ -63,6 +63,10 @@ chinese copycats
 
 super pinion not fine spline like this https://www.nicecnc.com/products/15t-front-sprocket-for-honda-xr650l-1993-2024
 
+optimum maximum use of driveshaft spline sprocket
+
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/xr650l-15t-front-sprocket%20(1).webp" width="300px">
+
 520 chain outside is 14 teeth but want 15 teeth, maybe less rpm on higher speeds
 
 https://www.nicecnc.com/collections/xr600r
