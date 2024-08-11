@@ -99,8 +99,7 @@ CALTRIC AMAZON https://amzn.to/3RoIkxz
 https://caltric.com/search.html?q=xr600
 https://caltric.com/search.html?q=xl600
 
-
-
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/Screenshot_20240811-120504_Chrome.jpg">
 
 ---
 
