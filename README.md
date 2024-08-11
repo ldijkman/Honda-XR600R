@@ -11,6 +11,9 @@ link list
 ## shop manual
 
 https://github.com/ldijkman/Honda-XR600R/tree/main/Manual
+
+10 crackshaft balancer 
+https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel10.pdf
 ---
 
 Honda XR600R 1988 engine PE04
