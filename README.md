@@ -106,7 +106,7 @@ https://caltric.com/search.html?q=xl600
 
 Do NOT like many copys of honda xr600 head light mask visor
 
-i like this good copy of original (maybe only for european size headlight unit), 
+i like this good copy of original (maybe only for european size headlight unit, unitglass 160 mm width 100mm height), 
 
 <img src="https://github.com/ldijkman/Honda-XR600R/blob/main/visorfrnh-138_big61301MG2000ZC-01_35f0.jpg?raw=true" width="200px"><img src="https://github.com/ldijkman/Honda-XR600R/blob/main/visorfrnh-138_big61301MG2000ZC-03_ca1a.jpg?raw=true" width="200px">
 
