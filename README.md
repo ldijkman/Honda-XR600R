@@ -80,9 +80,17 @@ https://www.ebay.com/itm/292219644461
 - product number: 28300MN1670
 - CMS product number: HO0039.6307
 - € 174.24 ,incl. 21% VAT
+
 ---
 
 https://mckresy.it/plastica-portafaro-ricambio-rettangolare.html
+
+- Visor, Fr.*nh-138* Xr600r 1988 (j) Belgium
+- product number: 61301MG2000ZC
+- CMS product number: HO0081.0447
+- € 107.69 ,incl. 21% VAT
+- 
+---
 
 Egbert Hidding Emmen NL
 Onderdelen Honda XR en Xl600r
