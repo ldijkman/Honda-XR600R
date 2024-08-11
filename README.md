@@ -4,6 +4,7 @@ Honda RFVC Engine
 radial four valve chamber
 
 <img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/Honda%20XR600R%2088%20%203.jpg">
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/honda_xr600r.jpg">
 
 link list
 
