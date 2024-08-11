@@ -67,7 +67,8 @@ optimum maximum use of driveshaft spline sprocket
 
 <img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/xr650l-15t-front-sprocket%20(1).webp" width="300px">
 
-but my 1988 drive shaft spline is not as fine as this picture, but course?
+but my 1988 drive shaft spline is not as fine as this picture, but course 
+, driveshaft is 6 teeth spline?
 
 520 chain outside is 14 teeth but want 15 teeth, maybe less rpm on higher speeds
 
