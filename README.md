@@ -43,6 +43,10 @@ https://github.com/ldijkman/Honda-XR600R/tree/main/Manual
 
 # IMPORTANT!
 
+do not forget the 2 bushings on oilpump with o-ring
+
+and place correct bushing in correct place
+
 <img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/20240811_142119.jpg">
 
 ---
