@@ -56,7 +56,14 @@ dimensions if you want to make/lathe/turn them yourself from aluminium
 
 ---
 
+my valve spring have on 1 side a turn with smaller pitch
+does it matter wich side points to head
 
+<img src="
+
+
+
+---
 Honda XR600R 1988 engine PE04
 
 # honda xr600 parts CMSNL.com
