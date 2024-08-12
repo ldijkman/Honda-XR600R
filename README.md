@@ -81,6 +81,8 @@ https://www.moto-gears.com/honda-xr600r-gears/
 
 https://m.facebook.com/VintageGearSpecialist/
 
+https://www.cmsnl.com/honda-xr600r-1988-j-belgium_model6868/partslist/E__1300.html
+
 
 ---
 
@@ -119,6 +121,8 @@ https://www.ebay.com/itm/292219644461
 CALTRIC EBAY https://www.ebay.com/str/caltric
 
 CALTRIC AMAZON https://amzn.to/3RoIkxz
+
+https://www.cmsnl.com/honda-xr600r-1988-j-belgium_model6868/partslist/F__1800.html
 
 - Arm Assy.,kick St Xr600r 1988 (j) Belgium
 - product number: 28300MN1670
