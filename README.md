@@ -143,6 +143,8 @@ https://mckresy.it/plastica-portafaro-ricambio-rettangolare.html
 
 https://www.ebay.co.uk/itm/304724716527
 
+https://www.cmsnl.com/honda-xr600r-1988-j-belgium_model6868/partslist/F__0101.html
+
 - Visor, Fr.*nh-138* Xr600r 1988 (j) Belgium
 - product number: 61301MG2000ZC
 - CMS product number: HO0081.0447
