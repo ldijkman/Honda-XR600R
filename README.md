@@ -59,7 +59,7 @@ dimensions if you want to make/lathe/turn them yourself from aluminium
 my valve spring have on 1 side a turn with smaller pitch
 does it matter wich side points to head
 
-<img src="
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/20240812_201509.jpg" width="300px">
 
 
 
