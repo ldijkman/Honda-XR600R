@@ -196,9 +196,11 @@ give me Fuel, Benzin.
 
 give me Fire, Fuer.
 
-gib mir das was ich brauche
+gib mir das was ich begere
 
-verlange
+brauche
+
+erlange
 
 FUEL https://youtu.be/PvF9PAxe5Ng?si=zL-lI-OrfDfZm7HW
 
