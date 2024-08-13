@@ -65,6 +65,15 @@ Thightly wound coils towards combustion chamber
  
 <img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/20240812_201509.jpg" width="300px">
 
+---
+
+# non factory mofification
+
+cam chain slider tension safety bolt
+
+in case tensioner axis one way bearing fails
+
+https://m.facebook.com/story.php?id=151353093219553&story_fbid=858347059186816
 
 
 ---
