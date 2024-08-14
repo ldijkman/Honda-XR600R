@@ -75,6 +75,12 @@ in case tensioner axis one way bearing fails
 
 https://m.facebook.com/story.php?id=151353093219553&story_fbid=858347059186816
 
+---
+
+# Crackshaft connecting rod replacement
+
+https://youtu.be/AvWT9-DFeEg
+
 
 ---
 Honda XR600R 1988 engine PE04
