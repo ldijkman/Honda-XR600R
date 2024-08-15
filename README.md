@@ -73,6 +73,8 @@ cam chain slider tension safety bolt
 
 in case tensioner axis one way bearing fails
 
+https://github.com/ldijkman/Honda-XR600R/tree/main/Head_cam_tension_modication
+
 https://m.facebook.com/story.php?id=151353093219553&story_fbid=858347059186816
 
 ---
