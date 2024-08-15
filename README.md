@@ -226,11 +226,11 @@ https://www.offroadcentrum.nl/
 
 # SecondHand ScrapYard / JunkYard, tweedehands, 2dehands, SchrootHoop 
 
-Germany https://www.kleinanzeigen.de/s-xr600r/k0
+Germany https://www.kleinanzeigen.de/s-xr600
 
-Holland https://www.marktplaats.nl/q/honda+xr600/
+Holland https://www.marktplaats.nl/q/honda+xr600
 
-Belgium https://www.2dehands.be/q/honda+xr600/
+Belgium https://www.2dehands.be/q/honda+xr600
 
 ---
 
