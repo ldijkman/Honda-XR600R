@@ -79,7 +79,11 @@ https://m.facebook.com/story.php?id=151353093219553&story_fbid=858347059186816
 
 ## oil pressure switch 0.3bar test
 
-on head banjo
+nicecnc sells oil vision glass monitor
+
+i would like to try pressure switch with light/lamp/bulb
+
+on modifeid head banjo
 
 <img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/img_1_1723693925218.jpg" width="500px">
 
