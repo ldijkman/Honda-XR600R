@@ -81,6 +81,8 @@ https://m.facebook.com/story.php?id=151353093219553&story_fbid=858347059186816
 
 on head banjo
 
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/img_1_1723693925218.jpg" width="500px">
+
 ---
 ## Redneck chain guide, no microplastics
 
