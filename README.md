@@ -77,6 +77,17 @@ https://m.facebook.com/story.php?id=151353093219553&story_fbid=858347059186816
 
 ---
 
+## oil pressure switch 0.3bar test
+
+on head banjo
+
+---
+## Redneck chain guide, no microplastics
+
+piece of oak wood works fine ;-)
+
+---
+
 # Crackshaft connecting rod replacement
 
 https://youtu.be/AvWT9-DFeEg
