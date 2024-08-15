@@ -79,7 +79,9 @@ https://m.facebook.com/story.php?id=151353093219553&story_fbid=858347059186816
 
 ## oil pressure switch 0.3bar test
 
-nicecnc sells oil vision glass monitor
+nicecnc sells oil vision glass monitor / oil sight glass
+
+https://www.nicecnc.com/products/banjo-bolt-oil-sight-glass-for-honda-xr650l-xr600r
 
 i would like to try pressure switch with light/lamp/bulb
 
