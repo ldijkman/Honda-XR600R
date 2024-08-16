@@ -241,11 +241,7 @@ Holland https://www.marktplaats.nl/q/honda+xr600
 
 Belgium https://www.2dehands.be/q/honda+xr600
 
----
 
-# PROX, Pro-X
-
-https://www.pro-x.com/
 
 
 ---
@@ -271,14 +267,19 @@ FUEL https://youtu.be/PvF9PAxe5Ng?si=zL-lI-OrfDfZm7HW
 
 BENZIN https://youtu.be/z0wK6s-6cbo?si=ysoRNQSAL_JOuosP
 
--
+---
+
+# PROX, Pro-X
+
+https://www.pro-x.com/
 
 piston ring position
 
 zuigerveer positie stand
 
 <img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/img_2_1723277217667.jpg">
--
+
+---
 
 searching for honda xr600r engine RFVC Engine
 
