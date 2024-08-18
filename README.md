@@ -212,6 +212,8 @@ https://www.cmsnl.com/honda-xr600r-1988-j-belgium_model6868/partslist/F__0101.ht
 - € 107.69 ,incl. 21% VAT
 - 
 ---
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/XR600R88_1.png">
+
 # seat cover
 
 bought a seat cover
