@@ -227,11 +227,11 @@ https://blackbirdracing.com/
 
 do not like it the bleu is to dark
 
-backside has not much space to fold it under seat
+backside/backend has not much width/space to fold it under seat
 
 why did they fold it flat in package , nasty folds 
 
-i think the better store it rolled
+i think they better store it rolled
 
 
 ---
