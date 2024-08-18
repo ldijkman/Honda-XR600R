@@ -309,6 +309,13 @@ zuigerveer positie stand
 
 <img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/img_2_1723277217667.jpg">
 
+
+---
+
+# Not Checked
+
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/honda_xr_600.pdf_1.png">
+
 ---
 
 searching for honda xr600r engine RFVC Engine
