@@ -393,3 +393,16 @@ did i save you some time / money?
 
 https://www.paypal.com/paypalme/ldijkman
 
+---
+
+Send your Honda XR600 scrap
+to
+
+Luberth Dijkman
+
+Bangert 30
+
+1619GJ Andijk
+
+Holland
+
