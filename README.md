@@ -232,7 +232,7 @@ https://blackbirdracing.com/
 
 (website sux on phone)
 
-do not like it the bleu is to dark
+do not like it, the bleu is to dark
 
 backside/backend has not much width/space to fold it under seat
 
@@ -246,7 +246,7 @@ the manual that comes with blackbirdracing seat cover SUX
 
 give some staple size info 
 
-heat gun temp info
+heat gun temperature info
 
 seat cover install video
 
