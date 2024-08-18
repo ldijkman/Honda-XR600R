@@ -374,7 +374,9 @@ https://youtube.com/shorts/y8CqgQXb8N4?feature=share
 <img src="https://github.com/ldijkman/Honda-XR600R/blob/main/Honda%20XR600R%2088%20%2001.jpg?raw=true" width="600px">
 
 Curtis Spencer 
- https://www.facebook.com/profile.php?id=61557124971503
+
+https://www.facebook.com/61557124971503
+
  
 <img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/honda-XR600-84-440x621.jpg">
 
