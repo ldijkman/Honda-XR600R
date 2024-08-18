@@ -40,7 +40,9 @@ https://github.com/ldijkman/Honda-XR600R/tree/main/Manual
 - 
 ---
 
-## https://github.com/ldijkman/Honda-XR600R/tree/main/Manual_2
+## Another Manual
+
+### https://github.com/ldijkman/Honda-XR600R/tree/main/Manual_2
 
 ---
 
