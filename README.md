@@ -396,7 +396,7 @@ https://www.paypal.com/paypalme/ldijkman
 ---
 
 Send your Honda XR600 scrap
-to
+to ;-)
 
 Luberth Dijkman
 
