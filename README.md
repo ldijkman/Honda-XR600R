@@ -40,6 +40,10 @@ https://github.com/ldijkman/Honda-XR600R/tree/main/Manual
 - 
 ---
 
+## https://github.com/ldijkman/Honda-XR600R/tree/main/Manual_2
+
+---
+
 # YouTube
 
 ### Complete single cylinder rebuild 600cc RFVC XR600R (1 of 11)
