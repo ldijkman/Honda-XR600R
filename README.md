@@ -236,7 +236,7 @@ do not like it, the bleu is to dark
 
 backside/backend has not much width/space to fold it under seat
 
-why did they fold it flat in package , nasty folds 
+why did they fold it flat in package , nasty sharp folds 
 
 i think they better store it rolled
 
