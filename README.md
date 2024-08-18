@@ -240,6 +240,14 @@ why did they fold it flat in package , nasty folds
 
 i think they better store it rolled
 
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/20240818_093910.jpg">
+
+the manual that comes with blackbirdracing seat cover SUX
+
+give some staple size info 
+
+heat gun temp info
+
 seat cover install video
 
 https://youtu.be/jHNz0k8rtZU
