@@ -314,6 +314,10 @@ zuigerveer positie stand
 
 # Not Checked
 
+colored electra schema
+
+easier to read
+
 <img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/honda_xr_600.pdf_1.png">
 
 ---
