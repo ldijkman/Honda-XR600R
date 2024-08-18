@@ -81,7 +81,8 @@ Thightly wound coils towards combustion chamber
 
 ---
 
-# non factory mofification
+# non factory modification
+### End User Mod
 
 cam chain slider tension safety bolt
 
