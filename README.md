@@ -212,6 +212,27 @@ https://www.cmsnl.com/honda-xr600r-1988-j-belgium_model6868/partslist/F__0101.ht
 - € 107.69 ,incl. 21% VAT
 - 
 ---
+# seat cover
+
+bought a seat cover
+
+https://www.enduroshop.de/en/xr-nx-spezial/xr-600r/sticker-seat-cover/oem-style-seat-cover-red-xr600-88
+
+packaging manual says it is from italy 
+https://blackbirdracing.com/
+
+(website sux on phone)
+
+do not like it the bleu is to dark
+
+backside has not much space to fold it under seat
+
+why did they fold it flat in package , nasty folds 
+
+i think the better store it rolled
+
+
+---
 
 Egbert Hidding Emmen NL
 Onderdelen Honda XR en Xl600r
