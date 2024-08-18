@@ -230,7 +230,11 @@ https://www.enduroshop.de/en/xr-nx-spezial/xr-600r/sticker-seat-cover/oem-style-
 packaging manual says it is from italy 
 https://blackbirdracing.com/
 
+https://blackbirdracing.com/prodotti/honda/xr-600-88-99/copertine-sella/copertina-sella-traditional-honda.html
+
 (website sux on phone)
+
+and website speed is far from racing speed,
 
 do not like it, the bleu is to dark
 
