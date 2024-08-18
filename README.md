@@ -233,6 +233,9 @@ why did they fold it flat in package , nasty folds
 
 i think they better store it rolled
 
+seat cover install video
+
+https://youtu.be/jHNz0k8rtZU
 
 ---
 
