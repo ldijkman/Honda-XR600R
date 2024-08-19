@@ -175,7 +175,7 @@ honda XL600 Kickstart 19mm / Honda XR600 kickstart 19mm
 
 <img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/honda_XL600_Kickstart_XR600_kickstart_19mm.webp" width="250px">
 
-calric.com
+caltric.com
 19mm kickstart lever honda XL600 
 
 19mm kickstart lever honda XR600
