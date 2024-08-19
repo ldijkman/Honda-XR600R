@@ -201,6 +201,8 @@ https://caltric.com/search.html?q=xl600
 
 ---
 
+<img src="https://raw.githubusercontent.com/ldijkman/Honda-XR600R/main/Screenshot_20240819-060431_Chrome.jpg">
+
 HONDA XR 600 R Kickstarter 19 mm Welle
 
 40 €
