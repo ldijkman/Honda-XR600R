@@ -201,6 +201,19 @@ https://caltric.com/search.html?q=xl600
 
 ---
 
+HONDA XR 600 R Kickstarter 19 mm Welle
+
+40 €
+
+Versand möglich
+
+https://www.kleinanzeigen.de/pro/Motorrad-Bach?page=7
+
+https://www.kleinanzeigen.de/s-anzeige/honda-xr-600-r-kickstarter-19-mm-welle/2308705276-306-5969
+
+
+---
+
 Do NOT like many copys of honda xr600 head light mask visor
 
 i like this good copy of original (maybe only for european size headlight unit, unitglass 160 mm width 100mm height), 
