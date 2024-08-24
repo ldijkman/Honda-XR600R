@@ -39,7 +39,7 @@ https://github.com/ldijkman/Honda-XR600R/tree/main/Manual
 - 14 hydraulic braje https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel14.pdf
 - 15 rear fender / exhaust pipe https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel15.pdf
 - 16 electrical system https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel16.pdf
-- 17 electrical system https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel17.pdf
+- 17 electrical system / wiring schema / auto decompression scrap https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel17.pdf
 - 18 technical features https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel18.pdf
 - 19 troubleshooting https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel19.pdf
 - 20 XR600R(K) Addendum https://github.com/ldijkman/Honda-XR600R/blob/main/Manual/WHB_Honda_XR_Kapitel20.pdf
