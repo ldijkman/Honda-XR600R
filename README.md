@@ -244,6 +244,10 @@ Koop nu ✓ Power Force Honda XR 600 19 mm voetstarthendel - PF 12 153 0020 (fab
 
 ---
 
+https://www.google.com/search?q=sku%3A+83-61612
+
+---
+
 Do NOT like many copys of honda xr600 head light mask visor
 
 i like this good copy of original (maybe only for european size headlight unit, unitglass 160 mm width 100mm height), 
